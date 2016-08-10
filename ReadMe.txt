@@ -1,0 +1,1 @@
+This project uses knowledge technologies to identify moive titles from reviews. Smith–Waterman algorithm and nGram algorithm are used to complete Approximate Matching. More information could be found in the Specfication. Project results could be found in the Result.pdf.

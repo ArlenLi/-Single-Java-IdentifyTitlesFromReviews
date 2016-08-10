@@ -1,0 +1,102 @@
+fileName, hasTitle, handCheckTitle, SWTitles, SWReturnNumber, SW match, NGTitiles, NGReturnNumber, NG match
+10726.txt,1, Camp, The Car,1,0, Camp,1,1
+12325.txt,1, A Nightmare on Elm Street 3 Dream Warriors, Possession,1,0, Possession;Warriors,2,0
+12824.txt,0, , The Grand;The World,2,0, The Grand;Found;Ferrari,3,0
+1305.txt,1, Tekkon Kinkreet, Tekkonkinkreet,1,0, Black;Moving;Vice;Caught,4,0
+13344.txt,1, Roswell, Classified X,1,0, Look;The Power;Time;Earth;Crash;The World;Roswell;Found,8,1
+140.txt,1, nikita, Restaurant,1,0, Look;The Car,2,0
+14313.txt,0, , Heart,1,0, Heart;Ed;Mel;Wasp;Kat;Sin,6,0
+14864.txt,1, The Sopranos, One of Them,1,0, Arc;The Power;The Road;Panic;Prime;Boardwalk,6,0
+14943.txt,1, Dark City, The Stranger,1,0, Black;The General;The World;Control;Perfect;Time;Dark City;The Road;The Sun,9,1
+15356.txt,1, Evil Spawn, Experiment;Evil Spawn,2,1, Look;Evil Spawn;Evil;Time;The Sun,5,1
+15998.txt,1, Firefly Dreams, Firefly Dreams,1,1, Praise;Time;Restaurant;Firefly Dreams,4,1
+16296.txt,0, , Schindler's List,1,0, Camp,1,0
+17048.txt,0, , Everything;Naked Fear,2,0, Haunts;Everything;Boys;Naked Fear;The Road;Hellbent;Predator;Prey;Naked;The Car,10,0
+17287.txt,0, , One of Them,1,0, Time;Found;One of Them,3,0
+17581.txt,1, The Bad News Bears, The Bad News Bears,1,1, Tough;The Take,2,0
+17624.txt,0, , Control;Impact;The Cow,3,0, Impact,1,0
+18994.txt,0, , Believe,1,0, Believe,1,0
+1949.txt,0, , Happily Ever After,1,0, Happily Ever After,1,0
+19788.txt,1, Shadowbuilder, Storytelling,1,0, Redemption;Evil;The Sun,3,0
+20030.txt,1, Sunburst, The Californians,1,0, Camera;Evil;Time;Found;Rent,5,0
+20337.txt,1, Gundam Win Endless Waltz, Marquise,1,0, Swing;Mel,2,0
+20376.txt,1, Bride Wars, Bride Wars,1,1, Look;Earth;Go;Riot;Bride Wars;Time;The Take;Believe,8,1
+21222.txt,0, , Charlie's Angels,1,0, Black;Tracks;Charlie's Angels,3,0
+21228.txt,0, , Romero,1,0, Mary,1,0
+22885.txt,0, , Perfect,1,0, Time;Wasp;Kat;Haven,4,0
+23047.txt,1, THE Christmas WISH, The Christmas Wish,1,0, Revelation,1,0
+2365.txt,0, , Just Write,1,0, Phantasm;Just Write,2,0
+24199.txt,1, The Crusades, Samson and Delilah,1,0, Robin Hood;Kidnapped;Oscar;Perfect;Time;The Crusades,6,1
+24454.txt,1, Dhamaal, Dhamaal;The Car;Driver 2;The Colt,4,1, Hidden;Go;The Car;Caught;House;Found;Rent,7,0
+2458.txt,1, Terminator, The Terminal,1,0, Look;Moving;Robots,3,0
+24811.txt,1, Mysterious Skin, Mysterious Skin;American Dream?,2,1, Boys;Exposed;American Dream?;The World;Desire;Mysterious Skin;Lies,7,1
+25082.txt,0, , The World,1,0, The World,1,0
+26225.txt,0, , Something New,1,0, Camera;Deeply;Suddenly;The Key,4,0
+26833.txt,0, , Everything,1,0, Look;Obsessed;Everything;Desire;Believe,5,0
+2817.txt,1, Seven, Unforgettable;Happy Endings;Transgression,3,0, Happy Endings;15;Paid;Praise;Time;Camera;Diner;Camp;Found,9,0
+28184.txt,1, South Park Bigger Longer & Uncut, One of Them,1,0, Out There;Found,2,0
+28982.txt,1, Grave of the Fireflies, Grave of the Fireflies,1,1, Everything;September,2,0
+29367.txt,0, , One of Them,1,0, Variety,1,0
+29478.txt,0, , Caught,1,0, Look;Time;Caught,3,0
+29680.txt,0, , Bolivia;Messages,2,0, Out There,1,0
+29761.txt,1, Thunderball, The Innocent,1,0, Look;Earth;22;Date Movie;Time;Record;The Innocent,7,0
+31789.txt,0, , Social Misfits,1,0, Ed;Ozone;Dixiana,3,0
+32178.txt,1, La habitacion Azul, The Car,1,0, Go,1,0
+32219.txt,0, , Experiment,1,0, Caught;Experiment,2,0
+32807.txt,0, , Broken English,1,0, Perfect;Broken,2,0
+33142.txt,0, , Storytelling,1,0, Go;Time;Storytelling;Knowing;James Dean;Crash;The Climax;The Take;Record;Believe;Found;Rain;Rent,13,0
+33966.txt,1, Jeff Ltd, One of Them,1,0, Ozone,1,0
+34986.txt,0, , Out There,1,0, Go;Suspect;Time;The Take;Found;Precious,6,0
+35769.txt,0, , Out There,1,0, Out There;Conflict,2,0
+35836.txt,1, Alien Abduction, Alien Abduction: Intimate Secrets,1,0, The Missing;Time;Click,3,0
+36104.txt,0, , Out of the Blue,1,0, Out of the Blue;Suddenly,2,0
+36643.txt,1, Pink Panther, Trail of the Pink Panther,1,0, Joanna;The World;Genius;Trail of the Pink Panther,4,0
+36695.txt,0, , Lamerica,1,0, Menu;What?;Wasp,3,0
+36915.txt,0, , Camera,1,0, Camera;Ghost,2,0
+37076.txt,0, , U Turn;House,2,0, House,1,0
+37693.txt,0, , The Orphanage,1,0, Impact;The Trap;The World;Shikhar;Mask;Greed;Memory;Time;Golf,9,0
+37775.txt,0, , Look;Stone;Oscar;Feast;Mendy;Zorro;Terry,7,0, Go,1,0
+37835.txt,0, , Godzilla,1,0, Look;Go;Godzilla,3,0
+37988.txt,1, The Manitou, The Manitou,1,1, Go;Paid;Evil;Time;Sunset,5,0
+38025.txt,0, , Night of the Living Dead,1,0, Look;Obsessed;Black;Escapes;The Undead;Night of the Living Dead;Vampire;Dracula;The Dawn,9,0
+3999.txt,1, SAATHIYA, Saathiya;The Road,2,0, The Road;Believe;9;The Van,4,0
+40022.txt,0, , A Wedding,1,0, Secrets,1,0
+40125.txt,1, Hellraiser Hellworld, The Party,1,0, Drive;Knowing;Go;The Car;Mask;Ghost;Plan,7,0
+40148.txt,0, , One of Them,1,0, Black;Time,2,0
+40720.txt,1, The Prisoner of Zenda, The Prisoner of Zenda,1,1, The Prisoner of Zenda;The Prisoner,2,1
+4081.txt,1, Gemini, Perfect;Madness,2,0, Perfect;Madness,2,0
+41246.txt,0, , The Others,1,0, The One,1,0
+42012.txt,1, Butt Ugly Martians, Roberta;The Man;The One;The Cow,4,0, Ozone,1,0
+42084.txt,1, Cruel Intentions, One of Them;Jawbreaker,2,0, Sebastian,1,0
+43369.txt,1, Inspector Clouseau, The War;The One,2,0, Mary;Wasp;Haven;Sin,4,0
+43514.txt,0, , Standing Still,1,0, Ozone,1,0
+4437.txt,0, , Perfect,1,0, Black;23,2,0
+4456.txt,1, Thomas the Tank Engine, Storytelling,1,0, Time;Storytelling;Disgrace,3,0
+45081.txt,1, The Adventures of Pluto Nash, The Hole,1,0, Time;Earth;Found,3,0
+45230.txt,0, , One of Them,1,0, Time,1,0
+45407.txt,0, , One of Them,1,0, Time,1,0
+45939.txt,0, , Drive;Robots,2,0, Sin;Robots,2,0
+46499.txt,1, The Lost World, The Lost World,1,1, Black;Legacy,2,0
+46700.txt,0, , One of Them,1,0, Prime;Go,2,0
+46794.txt,0, , Believe,1,0, Believe;Found,2,0
+46811.txt,1, Moog, Experiment,1,0, Out There;Interview;Go;Found;Moog,5,1
+47377.txt,1, Dracula's Curse, Dracula's Curse,1,1, Time;Dracula's Curse;Vampire;Dracula;Control,5,1
+47953.txt,0, , Everything;Redemption,2,0, Boo;Everything;Go;24;Redemption;The Boss;Evil,7,0
+4826.txt,0, , The Stranger;Rage to Kill;Love Affair,3,0, Go;Senseless;Evil;Time;Justice;Love Affair;The One;Found,8,0
+48929.txt,1, Twelve Angry Men, The Fly;Yellow,2,0, Yellow;Go,2,0
+49303.txt,1, The Crew, The Bet,1,0, Ozone,1,0
+49968.txt,0, , The Hole,1,0, Wasp;Kat;Sin,3,0
+5442.txt,1, The Exorcism of Emily Rose, Out There;The Others,2,0, Out There,1,0
+5689.txt,0, , The General,1,0, The General,1,0
+5859.txt,0, , The Apostle,1,0, The Apostle;Found,2,0
+6126.txt,1, Bitter Moon, Bitter Moon,1,1, Yesterday;Attraction;Oscar;Emmanuelle;Perfect;Believe,6,0
+6588.txt,0, , Threat;Desire,2,0, Desire,1,0
+6612.txt,0, , Memory;Roberta,2,0, Memory;Time;Go,3,0
+7283.txt,1, The Brothers Bloom, The Brothers Bloom,1,1, Easy;The Brothers Bloom,2,1
+742.txt,1, Sweet Kill, Sweet Kill,1,1, Out There,1,0
+7544.txt,0, , The Car,1,0, Tough;Go,2,0
+7840.txt,0, , The Bat,1,0, Ozone,1,0
+8640.txt,0, , In Bar;U Turn,2,0, Wasp;Sin,2,0
+871.txt,1, NetForce, Clear and Present Danger,1,0, Look;Tough;Go;Control;Evil;Time;Variety;Amateur;The Key;The World;NetForce,11,1
+8935.txt,1, Mulberry Street, Night of the Living Dead,1,0, Camera;Feast;Crisis;The One;Mulberry St;Trapped;Found,7,0
+,48,,,135,14,,343,13
